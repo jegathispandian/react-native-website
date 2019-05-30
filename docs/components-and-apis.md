@@ -1,6 +1,6 @@
 ---
 id: components-and-apis
-title: Components and APIs
+title: Components and APIs jegathis pandian
 ---
 
 React Native provides a number of built-in components. You will find a full list of components and APIs on the sidebar to the left. If you're not sure where to get started, take a look at the following categories:
